@@ -1,0 +1,17 @@
+{
+  "name": "prjcucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "expect": "^29.4.1",
+    "playwright": "^1.30.0"
+  }
+}
